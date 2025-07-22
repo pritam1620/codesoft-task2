@@ -10,7 +10,7 @@ A simple and responsive Basic Calculator built with HTML, CSS, and JavaScript. I
 ✅ Real-time calculation display
 
 🖼️ Demo
- Live Demo Link:[ https://pritam1620.github.io/codesoft-task2/]
+ Live Demo Link:[ https://pritam1620.github.io/task3/]
 
 🛠️ Technologies Used
 HTML5 → Structure
