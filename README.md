@@ -2,7 +2,7 @@
 A simple web-based calculator built using HTML, CSS, and JavaScript.
 It performs basic arithmetic operations (+, −, ×, ÷) and includes a Toggle Color button to switch the calculator’s theme between Red and Blue.
 
-🌐 Live Demo: []
+🌐 Live Demo: [https://pritam1620.github.io/task3/]
 
 ✨ Features
 ✅ Basic Calculator Functions → Addition, Subtraction, Multiplication, Division
